@@ -16,6 +16,7 @@ A mini-project in NLP to perform sentiment analysis on subtitles of movies using
 - Sentiment polarity values classified as follows: 0 - Neutral, >1 - Positive, <1 - Negative
 
 ### Work to be done
+- Using own method to load subtitles and data to remove dependency on pysrt
 - Trying to fetch more data using the sentiment values
 - Cleaning of data to get more accurate sentiment values
 - Using other sentiment analyzers to find the sentiment values
