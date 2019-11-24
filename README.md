@@ -15,11 +15,11 @@ A mini-project in NLP to perform sentiment analysis on subtitles of movies using
 - Graph plotted with x axis being the time and y axis being the sentiment polarity using matplotlib
 - Sentiment polarity values classified as follows: 0 - Neutral, >1 - Positive, <1 - Negative
 
-### Work to be donw
+### Work to be done
 - Trying to fetch more data using the sentiment values
 - Cleaning of data to get more accurate sentiment values
 - Using other sentiment analyzers to find the sentiment values
 - Developing own sentiment analyzer by training already classified data
 - Improving visualization of the output data
 
-### Still a work under progress
+### ** Still a work under progress **
