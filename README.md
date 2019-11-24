@@ -7,6 +7,7 @@ A mini-project in NLP to perform sentiment analysis on subtitles of movies using
 - Subtitle files to be placed in the ```Subtitles/``` folder
 
 ### Process followed
+- File to be run is ```run.py```
 - SRT file is loaded using the pysrt module
 - Text and time data collected from the subtitles
 - Text data is cleaned and time data converted into desirable format
